@@ -23,7 +23,7 @@ meta:
     content: Documentation for the Adi API
 ---
 
-# Introduction
+# Introduction to Adi API
 
 Welcome to the Adi API! You can use our API to access Adi API endpoints, which can get information on various cats, Adis, and breeds in our database.
 
